@@ -119,9 +119,11 @@ Original source: [chongdashu/adk-made-simple/agents]
 
 ## Changes and New Features:  
 Changes made include:
-1. **Multi-subreddit support**: The agent now fetches news from multiple subreddits by default.
+1. **Symlink Windows error**: Patching the ADK to handle the Windows symlink permission.
 
-2. **Custom subreddit requests**: You can ask for news from any specific subreddit.
+2. **Multi-subreddit support**: The agent now fetches news from multiple subreddits by default.
 
-3. **Improved error handling**: The agent handles non-existent, private, or restricted subreddits gracefully.
+3. **Custom subreddit requests**: You can ask for news from any specific subreddit.
+
+4. **Improved error handling**: The agent handles non-existent, private, or restricted subreddits gracefully.
 
