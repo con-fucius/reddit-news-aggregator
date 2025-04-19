@@ -83,13 +83,6 @@ The agent will start, and you can interact with it in the terminal. Try prompts 
    - `Show me sports news` (fetches from r/sports)
    - `Get me news from technology and science subreddits` (fetches from custom subreddits)
 
-## Features and Recent Changes
-
-1. **Multi-subreddit support**: The agent now fetches news from multiple subreddits by default.
-
-2. **Custom subreddit requests**: You can ask for news from any specific subreddit.
-
-3. **Improved error handling**: The agent handles non-existent, private, or restricted subreddits gracefully.
 
 ## Project Structure Overview
 
@@ -118,3 +111,19 @@ adk-made-simple/
 2. **Symlink error on Windows**: Run the `fix_adk_symlink.py` script to patch the ADK's handling of symbolic links.
 
 3. **API rate limiting**: Reddit has rate limiting. If you receive rate limit errors, wait a while before trying again.
+
+Note:
+
+## Based on
+
+This repository is a modified version of [Game Dev News Scout ] by [chongdashu].  
+Original source: [chongdashu/adk-made-simple/agents]
+
+## Changes made include:  
+
+1. **Multi-subreddit support**: The agent now fetches news from multiple subreddits by default.
+
+2. **Custom subreddit requests**: You can ask for news from any specific subreddit.
+
+3. **Improved error handling**: The agent handles non-existent, private, or restricted subreddits gracefully.
+
