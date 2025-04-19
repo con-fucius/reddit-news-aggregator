@@ -112,15 +112,13 @@ adk-made-simple/
 
 3. **API rate limiting**: Reddit has rate limiting. If you receive rate limit errors, wait a while before trying again.
 
-Note:
+## Based On
 
-## Based on
-
-This repository is a modified version of [Game Dev News Scout ] by [chongdashu].  
+This repository is a modified version of [Game Dev News Scout] by [chongdashu].  
 Original source: [chongdashu/adk-made-simple/agents]
 
-## Changes made include:  
-
+## Changes and New Features:  
+Changes made include:
 1. **Multi-subreddit support**: The agent now fetches news from multiple subreddits by default.
 
 2. **Custom subreddit requests**: You can ask for news from any specific subreddit.
