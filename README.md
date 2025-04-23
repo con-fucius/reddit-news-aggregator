@@ -1,4 +1,4 @@
-# Reddit News Aggregator and Analysis System
+# Reddit News Agent
 
 This project demonstrates a comprehensive news aggregation, summarization, and analysis system built using the Google Agent Development Kit (ADK).
 It fetches news from multiple subreddits, summarizes content, classifies news by topic, and provides specialized analysis.
